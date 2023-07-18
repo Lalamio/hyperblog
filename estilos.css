@@ -3,3 +3,12 @@ body {
   font-family: arial;
   color: burlywood;
 }
+
+#container {
+  width: 70%;
+  padding: 1em;
+  border: 1px rosybrown solid;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
