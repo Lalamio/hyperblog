@@ -12,3 +12,21 @@ body {
   margin: 0 auto;
   margin-top: 10px;
 }
+
+#cabecera
+{
+  border-radius: 10px;
+  background: #835b21;
+  box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+  color: white;
+  font-weight: bold;
+  margin: 0;
+  padding: 0.5em;
+}
+
+#cabecera #tagline
+{
+  padding: 0 0 0 1em;
+  font-weight: normal;
+  font-size: 0.9em;
+}
