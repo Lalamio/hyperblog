@@ -30,3 +30,13 @@ body {
   font-weight: normal;
   font-size: 0.9em;
 }
+
+#footer {
+  background-color: #eec5934f;
+  padding: 1px;
+  border-radius: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-top: 20px;
+  color: #613d13;
+}
