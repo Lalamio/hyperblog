@@ -15,7 +15,7 @@ body {
   border: 1px rosybrown solid;
   border-radius: 20px;
   margin: 0 auto;
-  background-color: ivory;
+  background-color: #fff9f0;
   margin-top: 10px;
 }
 
@@ -42,8 +42,8 @@ body {
 }
 
 #footer {
-  background-color: #eec5934f;
-  padding: 1px;
+  background-color: #ffe2bfb5;
+  padding: 5px;
   border-radius: 10px;
   margin-right: 50px;
   margin-left: 50px;
