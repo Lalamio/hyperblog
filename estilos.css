@@ -41,6 +41,10 @@ body {
   font-size: 0.9em;
 }
 
+.imagen-de-pie {
+  width: 100px;
+}
+
 #footer {
   background-color: #ffe2bfb5;
   padding: 5px;
